@@ -15,4 +15,4 @@ qc_log.xlsx
 # --- ไฟล์ System ---
 .DS_Store
 Thumbs.db
-.env
+
