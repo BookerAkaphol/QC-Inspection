@@ -1,0 +1,18 @@
+# --- โฟลเดอร์ขยะ (สำคัญมาก) ---
+node_modules/
+venv/
+dist/
+build/
+__pycache__/
+.git/
+
+# --- ไฟล์ข้อมูลที่ไม่เอาขึ้น ---
+captured_images/
+qc_log.xlsx
+*.xlsx
+*.log
+
+# --- ไฟล์ System ---
+.DS_Store
+Thumbs.db
+.env
